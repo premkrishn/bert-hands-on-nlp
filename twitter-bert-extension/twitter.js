@@ -37,5 +37,5 @@ function _addBorderToTweets() {
 });
 }
 
-setInterval(_addBorderToTweets, 5000);  // run our ML code every 2 seconds
+setInterval(_addBorderToTweets, 5000);  // run our ML code every 5 seconds
 // _addBorderToTweets();
