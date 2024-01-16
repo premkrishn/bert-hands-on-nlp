@@ -1,10 +1,4 @@
-![oreilly-logo](images/oreilly.png)
 
-# BERT Transformer Architecture for NLP
-
-This repository contains code for the [O'Reilly Live Online Training for Hands on Transfer Learning with BERT](https://learning.oreilly.com/live-events/hands-on-transfer-learning-for-nlp-with-bert/0636920061282/0636920061281)
-
-This training will focus on implementing BERT to solve a variety of modern NLP tasks including information retrieval, sequence classification / regression, and question/answering tasks. The training will begin with a refresher on the BERT architecture and how BERT learns to model language. We will then move into examples of fine-tuning BERT on domain-specific corpora and using pre-trained models to perform NLP tasks out of the box.
 
 BERT is one of the most relevant NLP architectures today and it is closely related to other important NLP deep learning models like GPT-3. Both of these models are derived from the newly invented transformer architecture and represent an inflection point in how machines process language and context.
 
